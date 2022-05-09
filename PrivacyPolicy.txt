@@ -1,0 +1,15 @@
+Thank you for using SQuack for Android!
+
+This game is an open source Android app developed by SaltyQuackerGames. The source code is available on GitHub under MIT license, while the app is also available on Google Play.
+
+
+The app does not collect or analyze any personally indentifiable information, only Twitch.TV aliases and logged dates. This is a personal project that can also be found on my website https://qcode.ca.
+
+
+If you have any questions, comments or concerns, please do not hesitate to email me!
+
+Thank you!
+
+SaltyQuacker (Delta C.)
+Ontario, Canada
+saltyquacker.games@gmail.com
